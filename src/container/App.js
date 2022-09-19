@@ -17,7 +17,7 @@ export default function App() {
     const showModal = () => {
         warning({
             title: 'Please enable cors via extension',
-            content: 'Project is in initilas phases ;)',
+            content: 'Project is in its initials phases ;)',
         });
     }
     const showLogin = () => {
