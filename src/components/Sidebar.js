@@ -19,7 +19,7 @@ export default function Sidebar() {
                 </div>
                 <div className="sb-sidenav-footer">
                     <div className="small">Logged in as:</div>
-                    Start Bootstrap
+                    Tanishq
                 </div>
             </nav>
         </div>
