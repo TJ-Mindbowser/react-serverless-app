@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-serverless-app/react-serverless-app/static/css/main.d726523b.css",
-    "main.js": "/react-serverless-app/react-serverless-app/static/js/main.c71111de.js",
-    "index.html": "/react-serverless-app/react-serverless-app/index.html",
-    "main.d726523b.css.map": "/react-serverless-app/react-serverless-app/static/css/main.d726523b.css.map",
-    "main.c71111de.js.map": "/react-serverless-app/react-serverless-app/static/js/main.c71111de.js.map"
+    "main.css": "/react-serverless-app/static/css/main.d726523b.css",
+    "main.js": "/react-serverless-app/static/js/main.c71111de.js",
+    "index.html": "/react-serverless-app/index.html",
+    "main.d726523b.css.map": "/react-serverless-app/static/css/main.d726523b.css.map",
+    "main.c71111de.js.map": "/react-serverless-app/static/js/main.c71111de.js.map"
   },
   "entrypoints": [
     "static/css/main.d726523b.css",
