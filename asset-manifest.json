@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-serverless-app/static/css/main.d726523b.css",
+    "main.js": "/react-serverless-app/static/js/main.619bd7ed.js",
+    "index.html": "/react-serverless-app/index.html",
+    "main.d726523b.css.map": "/react-serverless-app/static/css/main.d726523b.css.map",
+    "main.619bd7ed.js.map": "/react-serverless-app/static/js/main.619bd7ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d726523b.css",
+    "static/js/main.619bd7ed.js"
+  ]
+}
